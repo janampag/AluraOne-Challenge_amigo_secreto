@@ -4,7 +4,7 @@
 >
 > La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
 
-:open_file_folder: ## Tabla de contenidos
+## :open_file_folder: Tabla de contenidos
 - [Funcionalidades](#funcionalidades)
 - [Características](#características)
 - [Tecnologías](#tecnologías)
