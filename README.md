@@ -83,4 +83,4 @@ python app.py
 npm start
 
 ## Contacto
-* **Tu nombre:** [[Tu nombre de usuario de GitHub](https://github.com/tu_usuario_de_github)](https://github.com/janampag)
+* **Tu nombre:** [JanampaG](https://github.com/tu_usuario_de_github)](https://github.com/janampag)
