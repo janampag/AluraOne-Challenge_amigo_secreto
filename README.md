@@ -1,5 +1,5 @@
 ![Imagen principal](20-8-2025_amigo_secreto_portada.png)
-:gift: # AluraOne Challenge Amigo Secreto
+# :gift: AluraOne Challenge Amigo Secreto
 > Proyecto desarrollado como parte del proceso de selección del Programa ONE de Alura LATAM. Este proyecto busca aplicar los conocimientos adquiridos en los cursos, principalmente en JavaScript y Git/GitHub.
 >
 > La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
@@ -14,14 +14,14 @@
 
 ---
 
-:hammer: ## Funcionalidades
+## :hammer: Funcionalidades
 * Agrega nombres de Amigos.
 * Los nombres ingresados son mostrados en un recuadro. 
 * Selecciona a un amigo entre el listado para ser mostrado como Amigo Secreto.
 
 ---
 
-:mechanical_arm: ## Características
+## :mechanical_arm: Características
 * Validación de Entrada: Reconoce cuando el usuario ingresa nombres que posea algún caracter diferentes a letras, numeros y `.` `_`. Aunque inmediatamente alerte del fallido ingreso, sí permite el ingreso de combinaciones; pero al menos debe ingresar una letra para ser aceptado. Tambien reconoce cuando el campo está en vacio o solo con espacio devolviendo otra alerta.
 
 ![Alertas](20-8-2025_gift_proceso_fallido.gif)
@@ -38,7 +38,7 @@
 
 ---
 
-:computer: ## Tecnologías
+## :computer:Tecnologías
 Este proyecto fue creado con las siguientes tecnologías:
 * `HTML5`: Estructura de la aplicación.
 * `CSS3`: Estilos y diseño responsivo.
@@ -46,7 +46,7 @@ Este proyecto fue creado con las siguientes tecnologías:
 
 ---
 
-:cd: ## Instalación
+## :cd:Instalación
 
 Este proyecto está desarrollado con HTML, CSS y JavaScript Vanilla, por lo que no requiere instalaciones adicionales de librerías ni frameworks.
 El archivo clave es app.js, donde se encuentra la lógica de la aplicación.
@@ -69,7 +69,7 @@ AluraOne-Challenge_amigo_secreto/
 * Haz doble clic en `index.html`, o
 * Usa la extensión `Live Server` en VS Code para abrirlo en http://localhost:5500.
 
-:screwdriver: ## Uso
+## :screwdriver:Uso
 🔹 Localmente
 
 Abre `index.html` en tu navegador.
@@ -84,6 +84,6 @@ Abre `index.html` en tu navegador.
 También puedes usar la aplicación desde GitHub Pages sin necesidad de instalar nada:
 https://janampag.github.io/AluraOne-Challenge_amigo_secreto/
 
-## Contacto
+## :globe_with_meridians: Contacto
 * **JanampaG** https://github.com/janampag
 
