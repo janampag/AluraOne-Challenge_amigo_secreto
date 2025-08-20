@@ -1,4 +1,4 @@
-![20-8-2025_amigo_secreto_portada.png](https://github.com/janampag/AluraOne-Challenge_amigo_secreto/blob/master/20-8-2025_amigo_secreto_portada.png)
+![Imagen principal](20-8-2025_amigo_secreto_portada.png)
 # AluraOne Challenge Amigo Secreto
 > Proyecto desarrollado como parte del proceso de selección del Programa ONE de Alura LATAM. Este proyecto busca aplicar los conocimientos adquiridos en los cursos, principalmente en JavaScript y Git/GitHub.
 >
