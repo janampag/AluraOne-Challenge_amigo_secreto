@@ -1,5 +1,6 @@
-# Nombre de tu proyecto
-> Una breve descripción de una o dos frases que explique para qué sirve tu proyecto.
+# AluraOne Challenge Amigo Secreto
+> Proyecto desarrollado como parte del proceso de selección del Programa ONE de Alura LATAM. Este proyecto busca aplicar los conocimientos adquiridos en los cursos, principalmente en JavaScript y Git/GitHub.
+La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
 
 ![Captura de pantalla o GIF del proyecto (opcional)](ruta/a/tu/imagen.png)
 
