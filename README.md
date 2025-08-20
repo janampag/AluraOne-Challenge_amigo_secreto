@@ -3,7 +3,7 @@
 >
 > La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
 
-!imagen_portada(20-8-2025_amigo_secreto_portada.png)
+!imagen_portada([20-8-2025_amigo_secreto_portada.png](https://github.com/janampag/AluraOne-Challenge_amigo_secreto/blob/master/20-8-2025_amigo_secreto_portada.png))
 
 ## Tabla de contenidos
 - [Características](#características)
