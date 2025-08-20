@@ -5,6 +5,7 @@
 > La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
 
 ## Tabla de contenidos
+- [Funcionalidades](#funcionalidades)
 - [Características](#características)
 - [Tecnologías](#tecnologías)
 - [Instalación](#instalación)
@@ -24,8 +25,12 @@
 
 ## Características
 * Validación de Entrada: Reconoce cuando el usuario ingresa nombres que posea algún caracter diferentes a letras, numeros y "." "_". Aunque inmediatamente alerte del fallido ingreso, sí permite el ingreso de combinaciones; pero al menos debe ingresar una letra para ser aceptado. Tambien reconoce cuando el campo está en vacio o solo con espacio devolviendo otra alerta.
-* Formato automático de nombre: Cada nombre ingresado el formato será automaticamente cambiado a uno que contenga la primera letra en mayúscula y las demas en minúsculas.
-* Característica 3: La tercera característica más relevante.
+  
+* Formato automático de nombre: El formato de cada nombre ingresado será automaticamente cambiado a uno que contenga la primera letra en mayúscula y las demas en minúsculas.
+  
+* Validación de participantes: El sistema de sorteo verifica automáticamente la cantidad de nombres registrados antes de ejecutar la acción. Si la lista contiene menos de dos participantes, la aplicación muestra una alerta para indicar que se deben añadir más nombres.
+
+* Retroalimentación visual: Cuando un nombre es seleccionado como ganador, el programa lo resalta automáticamente en color rojo dentro de la lista de participantes. Este cambio visual permite una identificación inmediata del nombre que ha sido elegido.
 
 ---
 
@@ -68,6 +73,8 @@ Para tener una copia local y en funcionamiento, sigue estos sencillos pasos.
 
 ## Uso
 Describe cómo usar tu proyecto, proporcionando ejemplos de código o comandos.
+
+https://janampag.github.io/AluraOne-Challenge_amigo_secreto/
 
 ```sh
 # Ejemplo de cómo ejecutar tu proyecto
