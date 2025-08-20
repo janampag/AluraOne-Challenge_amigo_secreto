@@ -22,7 +22,9 @@
 ---
 
 ## Características
-* Validación de Entrada: Reconoce cuando el usuario ingresa nombres que posea algún caracter diferentes a letras, numeros y "." "_". Aunque inmediatamente alerte del fallido ingreso, sí permite el ingreso de combinaciones; pero al menos debe ingresar una letra para ser aceptado. Tambien reconoce cuando el campo está en vacio o solo con espacio devolviendo otra alerta.
+* Validación de Entrada: Reconoce cuando el usuario ingresa nombres que posea algún caracter diferentes a letras, numeros y `.` `_`. Aunque inmediatamente alerte del fallido ingreso, sí permite el ingreso de combinaciones; pero al menos debe ingresar una letra para ser aceptado. Tambien reconoce cuando el campo está en vacio o solo con espacio devolviendo otra alerta.
+
+![Alertas](20-8-2025_gift_proceso_fallido.gif)
   
 * Formato automático de nombre: El formato de cada nombre ingresado será automaticamente cambiado a uno que contenga la primera letra en mayúscula y las demas en minúsculas.
 
@@ -32,13 +34,15 @@
 
 * Retroalimentación visual: Cuando un nombre es seleccionado como ganador, el programa lo resalta automáticamente en color rojo dentro de la lista de participantes. Este cambio visual permite una identificación inmediata del nombre que ha sido elegido.
 
+![Color](20-8-2025_gift_proceso_de_ingreso.gif)
+
 ---
 
 ## Tecnologías
 Este proyecto fue creado con las siguientes tecnologías:
-* HTML5: Estructura de la aplicación.
-* CSS3: Estilos y diseño responsivo.
-* JavaScript (Vanilla): Lógica de agregar nombres y sorteo.
+* `HTML5`: Estructura de la aplicación.
+* `CSS3`: Estilos y diseño responsivo.
+* `JavaScript (Vanilla)`: Lógica de agregar nombres y sorteo.
 
 ---
 
@@ -62,18 +66,18 @@ AluraOne-Challenge_amigo_secreto/
 ```
 3. **Carga el proyecto en tu navegador**
 
-* Haz doble clic en index.html, o
-* Usa la extensión Live Server en VS Code para abrirlo en http://localhost:5500.
+* Haz doble clic en `index.html`, o
+* Usa la extensión `Live Server` en VS Code para abrirlo en http://localhost:5500.
 
 ## Uso
 🔹 Localmente
 
-Abre index.html en tu navegador.
+Abre `index.html` en tu navegador.
 
-El script app.js se ejecutará automáticamente y controlará toda la lógica.
-Ingresa los nombres en el campo de texto y presiona Enter o el botón Agregar.
-Cuando tengas al menos dos participantes, haz clic en Sortear Amigo.
-El nombre sorteado aparecerá en pantalla y se resaltará en rojo dentro de la lista.
+* El script app.js se ejecutará automáticamente y controlará toda la lógica.
+* Ingresa los nombres en el campo de texto y presiona Enter o el botón Agregar.
+* Cuando tengas al menos dos participantes, haz clic en Sortear Amigo.
+* El nombre sorteado aparecerá en pantalla y se resaltará en rojo dentro de la lista.
 
 🔹 En línea
 
@@ -81,4 +85,4 @@ También puedes usar la aplicación desde GitHub Pages sin necesidad de instalar
 https://janampag.github.io/AluraOne-Challenge_amigo_secreto/
 
 ## Contacto
-* **Tu nombre:** [JanampaG](https://github.com/tu_usuario_de_github)](https://github.com/janampag)
+* **JanampaG** [(https://github.com/tu_usuario_de_github)](https://github.com/janampag)
