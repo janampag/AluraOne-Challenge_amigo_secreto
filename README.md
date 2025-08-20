@@ -43,44 +43,42 @@ Este proyecto fue creado con las siguientes tecnologías:
 ---
 
 ## Instalación
-Para tener una copia local y en funcionamiento, sigue estos sencillos pasos.
 
-1.  **Clona el repositorio:**
-    ```sh
-    git clone [https://github.com/tu_usuario/nombre_de_tu_repositorio.git](https://github.com/tu_usuario/nombre_de_tu_repositorio.git)
-    cd nombre_de_tu_repositorio
-    ```
+Este proyecto está desarrollado con HTML, CSS y JavaScript Vanilla, por lo que no requiere instalaciones adicionales de librerías ni frameworks.
+El archivo clave es app.js, donde se encuentra la lógica de la aplicación.
 
-2.  **Instala las dependencias:**
-    ```sh
-    # Si usas npm
-    npm install
+1. **Clona el repositorio en tu máquina local**
+```sh
+git clone https://github.com/janampag/AluraOne-Challenge_amigo_secreto.git
+cd AluraOne-Challenge_amigo_secreto
+```
+2. **Verifica la estructura del proyecto**
+```
+AluraOne-Challenge_amigo_secreto/
+├── index.html
+├── style.css
+├── app.js
+└── assets/ (si corresponde)
+```
+3. **Carga el proyecto en tu navegador**
 
-    # Si usas pip (Python)
-    pip install -r requirements.txt
-    ```
-
-3.  **Configura las variables de entorno (si es necesario):**
-    Crea un archivo `.env` en el directorio raíz y añade tus variables:
-    ```sh
-    # Ejemplo de un archivo .env
-    API_KEY=tu_clave_de_api
-    DATABASE_URL=tu_url_de_base_de_datos
-    ```
-
----
+* Haz doble clic en index.html, o
+* Usa la extensión Live Server en VS Code para abrirlo en http://localhost:5500.
 
 ## Uso
-Describe cómo usar tu proyecto, proporcionando ejemplos de código o comandos.
+🔹 Localmente
 
+Abre index.html en tu navegador.
+
+El script app.js se ejecutará automáticamente y controlará toda la lógica.
+Ingresa los nombres en el campo de texto y presiona Enter o el botón Agregar.
+Cuando tengas al menos dos participantes, haz clic en Sortear Amigo.
+El nombre sorteado aparecerá en pantalla y se resaltará en rojo dentro de la lista.
+
+🔹 En línea
+
+También puedes usar la aplicación desde GitHub Pages sin necesidad de instalar nada:
 https://janampag.github.io/AluraOne-Challenge_amigo_secreto/
-
-
-# Ejemplo de cómo ejecutar tu proyecto
-python app.py
-
-# Si es una aplicación web
-npm start
 
 ## Contacto
 * **Tu nombre:** [JanampaG](https://github.com/tu_usuario_de_github)](https://github.com/janampag)
