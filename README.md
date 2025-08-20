@@ -10,8 +10,6 @@
 - [Tecnologías](#tecnologías)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ---
@@ -77,9 +75,12 @@ Describe cómo usar tu proyecto, proporcionando ejemplos de código o comandos.
 
 https://janampag.github.io/AluraOne-Challenge_amigo_secreto/
 
-```sh
+
 # Ejemplo de cómo ejecutar tu proyecto
 python app.py
 
 # Si es una aplicación web
 npm start
+
+## Contacto
+* **Tu nombre:** [[Tu nombre de usuario de GitHub](https://github.com/tu_usuario_de_github)](https://github.com/janampag)
