@@ -85,4 +85,4 @@ También puedes usar la aplicación desde GitHub Pages sin necesidad de instalar
 https://janampag.github.io/AluraOne-Challenge_amigo_secreto/
 
 ## Contacto
-* **JanampaG** [(https://github.com/tu_usuario_de_github)](https://github.com/janampag)
+* **JanampaG**[ [(https://github.com/tu_usuario_de_github)](https://github.com/janampag)](https://github.com/janampag)
