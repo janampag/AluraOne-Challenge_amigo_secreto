@@ -27,6 +27,8 @@
 * Validación de Entrada: Reconoce cuando el usuario ingresa nombres que posea algún caracter diferentes a letras, numeros y "." "_". Aunque inmediatamente alerte del fallido ingreso, sí permite el ingreso de combinaciones; pero al menos debe ingresar una letra para ser aceptado. Tambien reconoce cuando el campo está en vacio o solo con espacio devolviendo otra alerta.
   
 * Formato automático de nombre: El formato de cada nombre ingresado será automaticamente cambiado a uno que contenga la primera letra en mayúscula y las demas en minúsculas.
+
+* Entrada de datos con el teclado: Los nombres se pueden registrar usando la tecla `Enter` en lugar del mouse. Esto agiliza el proceso y hace que la experiencia sea más rápida y eficiente.
   
 * Validación de participantes: El sistema de sorteo verifica automáticamente la cantidad de nombres registrados antes de ejecutar la acción. Si la lista contiene menos de dos participantes, la aplicación muestra una alerta para indicar que se deben añadir más nombres.
 
@@ -36,10 +38,9 @@
 
 ## Tecnologías
 Este proyecto fue creado con las siguientes tecnologías:
-* [Lenguaje de programación] - Ej: `Python`, `JavaScript`, `Java`.
-* [Framework/Librería 1] - Ej: `React`, `Django`, `Express.js`.
-* [Framework/Librería 2] - Ej: `Node.js`, `Pandas`, `Spring Boot`.
-* [Base de datos] - Ej: `PostgreSQL`, `MongoDB`.
+* HTML5: Estructura de la aplicación.
+* CSS3: Estilos y diseño responsivo.
+* JavaScript (Vanilla): Lógica de agregar nombres y sorteo.
 
 ---
 
