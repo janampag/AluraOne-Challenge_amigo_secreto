@@ -1,8 +1,9 @@
 # AluraOne Challenge Amigo Secreto
 > Proyecto desarrollado como parte del proceso de selección del Programa ONE de Alura LATAM. Este proyecto busca aplicar los conocimientos adquiridos en los cursos, principalmente en JavaScript y Git/GitHub.
-La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
+>
+> La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
 
-![Captura de pantalla o GIF del proyecto (opcional)](ruta/a/tu/imagen.png)
+!imagen_portada(20-8-2025_amigo_secreto_portada.png)
 
 ## Tabla de contenidos
 - [Características](#características)
