@@ -1,9 +1,8 @@
+![20-8-2025_amigo_secreto_portada.png](https://github.com/janampag/AluraOne-Challenge_amigo_secreto/blob/master/20-8-2025_amigo_secreto_portada.png)
 # AluraOne Challenge Amigo Secreto
 > Proyecto desarrollado como parte del proceso de selección del Programa ONE de Alura LATAM. Este proyecto busca aplicar los conocimientos adquiridos en los cursos, principalmente en JavaScript y Git/GitHub.
 >
 > La funcionalidad de esta aplicación de "Amigo Secreto" permite a los usuarios ingresar una lista de nombres. La aplicación sortea a una persona y muestra su nombre en la pantalla.
-
-![20-8-2025_amigo_secreto_portada.png](https://github.com/janampag/AluraOne-Challenge_amigo_secreto/blob/master/20-8-2025_amigo_secreto_portada.png)
 
 ## Tabla de contenidos
 - [Características](#características)
@@ -16,9 +15,16 @@
 
 ---
 
+## Funcionalidades
+* Agrega nombres de Amigos.
+* Los nombres ingresados son mostrados en un recuadro. 
+* Selecciona a un amigo entre el listado para ser mostrado como Amigo Secreto.
+
+---
+
 ## Características
-* Característica 1: Una funcionalidad clave que destaca.
-* Característica 2: Otra funcionalidad importante.
+* Validación de Entrada: Reconoce cuando el usuario ingresa nombres que posea algún caracter diferentes a letras, numeros y "." "_". Aunque inmediatamente alerte del fallido ingreso, sí permite el ingreso de combinaciones; pero al menos debe ingresar una letra para ser aceptado. Tambien reconoce cuando el campo está en vacio o solo con espacio devolviendo otra alerta.
+* Formato automático de nombre: Cada nombre ingresado el formato será automaticamente cambiado a uno que contenga la primera letra en mayúscula y las demas en minúsculas.
 * Característica 3: La tercera característica más relevante.
 
 ---
